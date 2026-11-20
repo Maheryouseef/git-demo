@@ -1,1 +1,2 @@
-This is my new feature - Version 2.
+This is my new feature - Version 3.
+
